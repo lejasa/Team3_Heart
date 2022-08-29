@@ -9,7 +9,7 @@
   - 지역별 인구 분포 및 GRDP 지수 이용하여 비교
   - 세계속의 대한민국 출산율 비교
   - 저출산 문제 데이터 분석
-- 결과물 : https://public.tableau.com/app/profile/.40333734/viz/_16616010419130/1_1?publish=yes
+- 결과물 : https://public.tableau.com/app/profile/.40333734/viz/_16616976208270/1_1
 
 손병립 
 - 소주제 : 지역별 부동산 현황
